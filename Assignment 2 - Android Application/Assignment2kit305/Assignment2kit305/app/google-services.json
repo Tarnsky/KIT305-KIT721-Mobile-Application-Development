@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56621341870",
+    "project_id": "assignment2kit305",
+    "storage_bucket": "assignment2kit305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56621341870:android:a0e3cdcb8e01ce638ae13f",
+        "android_client_info": {
+          "package_name": "au.edu.utas.tkrimmer.assignment2kit305"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56621341870-4c5cqc1n3lv6mqqh8gpqn2em75mldrh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4XSJ769Frunq8ihr2ulzeHfAx-IqiYpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56621341870-4c5cqc1n3lv6mqqh8gpqn2em75mldrh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

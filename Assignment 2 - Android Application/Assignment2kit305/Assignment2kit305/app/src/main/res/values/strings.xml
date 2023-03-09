@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stroke of Genius</string>
+    <string name="hello_world">Hello User</string>
+    <string name="ok">OK</string>
+    <string name="enterHint">Enter your username</string>
+    <string name="draggable_tail_image" />
+    <string name="unmasked_donkey" />
+    <string name="buttonA" />
+    <string name="buttonB" />
+    <string name="buttonC" />
+    <string name="score" />
+    <string name="startTime" />
+    <string name="endTime" />
+    <string name="textViewName" />
+</resources>
